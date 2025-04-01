@@ -1,0 +1,5 @@
+mkdir backend
+cd backend
+npm init -y
+npm install express socket.io cors mongoose
+npm install --save-dev typescript ts-node nodemon @types/express @types/cors @types/node
