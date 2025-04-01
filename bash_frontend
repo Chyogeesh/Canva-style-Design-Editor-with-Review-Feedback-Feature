@@ -1,0 +1,3 @@
+npx create-next-app@latest frontend --typescript
+cd frontend
+npm install fabric react-fabricjs socket.io-client react-colorful react-icons
