@@ -201,3 +201,18 @@ Enhanced export options (PDF, JPG, etc.)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+For production, you should:
+
+Add proper authentication
+
+Implement error handling
+
+Add input validation
+
+Set up proper CORS configuration
+
+Add rate limiting
+
+The application uses a simple toggle to switch between designer and brand team modes. In a real application, you would have proper user roles and authentication.
+
+The MongoDB connection is simplified for this example. In production, you would want connection pooling and proper error handling.
