@@ -1,5 +1,5 @@
 "scripts": {
-  "start": "ts-node src/index.ts",
+  "start": "ts-nodesrc/index.ts",
   "now-start": "ts-node src/index.ts",
   "build": "tsc"
 }
